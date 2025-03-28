@@ -12,10 +12,8 @@ This is a simple Todo App built using React and Redux. It allows you to add, edi
 
 To run this app locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository
 
-2. Install dependencies:
-   `npm install`
+2. Install dependencies: `npm install`
 
-3. Start the development server:
-   `npm start`
+3. Start the development server: `npm start`
